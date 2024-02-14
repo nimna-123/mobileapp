@@ -1,0 +1,4 @@
+#Wed Feb 14 12:11:51 GST 2024
+base.0=C\:\\sacrosys\\RNfirstProject\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
